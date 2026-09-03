@@ -6,7 +6,37 @@ O conteúdo e os materiais utilizados foram feitos pelos alunos com base no mate
 
 ## Conteúdo
 
+### Dia 1
 
+- Introdução à linguagem Python e preparação do ambiente de desenvolvimento.
+- Tipos de dados básicos (`int`, `float` e `str`), operações aritméticas e manipulação de textos.
+- Variáveis, conversão de tipos e interação com a pessoa usuária por meio de `input()` e `print()`.
+
+**Resumo:** primeiros passos para criar programas simples que recebem dados, os processam e exibem resultados.
+
+### Dia 2
+
+- Valores booleanos e operadores de comparação e lógicos.
+- Estruturas condicionais com `if`, `elif` e `else`.
+- Seleção de opções com `match-case`.
+
+**Resumo:** uso de condições para que os programas possam tomar decisões conforme os dados recebidos.
+
+### Dia 3
+
+- Criação, acesso e manipulação de listas.
+- Operações e métodos de listas, como `append()`, `pop()`, `sort()` e `len()`.
+- Estruturas de repetição `for` e `while`.
+
+**Resumo:** armazenamento de vários dados e repetição de tarefas de forma organizada e eficiente.
+
+### Dia 4
+
+- Criação e chamada de funções com parâmetros e valores de retorno.
+- Escopo de variáveis e reutilização de código.
+- Tipos de dados personalizados: compostos e enumerados.
+
+**Resumo:** organização de programas em funções e modelagem de dados para deixar o código mais claro e reutilizável.
 
 ## Como entregar os exercícios pelo GitHub
 

@@ -11,7 +11,7 @@ while executar:
     match comando:
         case 1:
             print('Um item foi adicionado!')
-        case 2:
+        case 2:r
             print('Um item foi removido!')
         case 3:
             print('A lista foi mostrada!')
